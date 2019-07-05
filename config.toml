@@ -1,4 +1,4 @@
-baseURL = "//janraasch.com/"
+baseURL = "//www.janraasch.com/"
 languageCode = "en-us"
 title = "janraasch"
 theme="hugo-split-theme"
