@@ -36,5 +36,5 @@ copyright = "&copy;2019 Jan Raasch"
       url = "mailto:jan@janraasch.com"
 
     [[params.links.list1.link]]
-      text = "| Github"
+      text = "Github"
       url = "https://github.com/janraasch/"
