@@ -39,3 +39,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "http://www.janraasch.com/:splat"
   force = true
   status = 301
+
+[[redirects]]
+  from = "https://lucid-leakey-72209b.netlify.com/*"
+  to = "https://www.janraasch.com/:splat"
+  force = true
+  status = 301
