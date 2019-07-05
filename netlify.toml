@@ -28,3 +28,16 @@ HUGO_VERSION = "0.55.6"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+# Redirects and headers are GLOBAL for all builds – they do not get scoped to 
+# contexts no matter where you define them in the file.
+# For context-specific rules, use _headers or _redirects files, which are 
+# PER-DEPLOY.
+
+[[redirects]]
+  from = "http://lucid-leakey-72209b.netlify.com/*"
+  to = "http://www.janraasch.com/:splat"
+  force = true
+  status = 301
+
+  http://lucid-leakey-72209b.netlify.com/* http://www.janraasch.com/:splat 301!
