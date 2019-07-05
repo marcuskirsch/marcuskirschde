@@ -1,4 +1,4 @@
-baseURL = "//www.janraasch.com/"
+baseURL = "//lucid-leakey-72209b.netlify.com/"
 languageCode = "en-us"
 title = "janraasch"
 theme="hugo-split-theme"
