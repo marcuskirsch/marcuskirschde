@@ -1,6 +1,6 @@
 +++
-title = "Jan Raasch"
-tagline = "Software Developer.  Yoga Teacher."
+title = "Marcus Kirsch"
+tagline = "Software Developer & UX Concepter"
 +++
 
-Head over Heels at [tevim.com](https://www.tevim.com)
+Head of Body at [tevim.com](https://www.tevim.com)
