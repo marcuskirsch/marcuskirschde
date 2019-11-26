@@ -33,7 +33,7 @@ copyright = "&copy;2019 Marcus Kirsch"
 
     [[params.links.list1.link]]
       text = "Email"
-      url = "mailto:briefkasten@marcuskirsch.de"
+      url = "mailto:marcus@codaline.io"
 
     [[params.links.list1.link]]
       text = "Github"
